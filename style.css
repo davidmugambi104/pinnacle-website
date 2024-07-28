@@ -13,7 +13,7 @@ body {
 /* Main section styles */
 .main {
     width: 100%;
-    height: 80vh;
+    height: 40vh;
     background-image: url(xcitium_logo.jpeg);
     background-size: cover;
     background-position: center;
