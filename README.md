@@ -1,5 +1,9 @@
 💼💡 website: intensity pinnacle website
-🌟 Welcome to intensity pinnacle GitHub repository! This site is made by david mugambi to facilitate intensity pinnacle limited to increase sales in modern web design, utilizing technologies like JavaScript, CSS, HTML, and Sass to create a visually appealing and responsive experience.
+🌟 Welcome to intensity pinnacle GitHub repository!
+This site is made by david mugambi to facilitate intensity pinnacle limited
+to increase sales in modern web design,
+utilizing technologies like: JavaScript, CSS, HTML, and Sass to create a visually appealing and responsive experience.
+
 
 
 
@@ -12,6 +16,7 @@ portfolio 📁
 modern 🆕
 css3 ✨
 html-css-javascript 🌐
+
 
 
 📄 Resources
@@ -27,6 +32,8 @@ Sass: 10.9% 👚
 HTML: 9.2% 📄
 JavaScript: 5.1% 🟨
 SCSS: 0.2% 🧵
+
+
 
 REACH ME
 github: davidmugambi104 [https://github.com/davidmugambi104]
