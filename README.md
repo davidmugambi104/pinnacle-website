@@ -1,4 +1,4 @@
-# 💼💡 Portfolio: My Personal Website
+# 💼💡 WEBSITE: INTENSITY PINNACLE LTD
 
 🌟 Welcome to intensity pinnacle LTD website's GitHub repository! This site is made by [davidmugambi104](https://github.com/davidmugambi104) in modern web design, utilizing technologies like JavaScript, CSS, HTML, and Sass to create a visually appealing and responsive experience.
 
