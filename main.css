@@ -44,14 +44,15 @@
 }
 
 .works-image-c1 {
-  background-image: url(footer/123.jpg);
-  
-  
-  
+  background-image: url("../img/backgrounds/1080x1440-c1-bg-works.jpg");
 }
 
 .contact-image-c1 {
-  background-image: url("dark-coronation-blue-abstract-creative-background-design_851755-183776.avif");
+  background-image: url("../img/backgrounds/1080x1440-c1-bg-home-3.jpg");
+}
+
+.about-image-c1{
+  background-image: url(decorators/about.jpg) ;
 }
 
 /* ------------------------------------------------*/
