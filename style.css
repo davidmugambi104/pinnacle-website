@@ -20,6 +20,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center; /* Center text for mobile */
 }
 
 .main .main_content {
@@ -238,7 +239,7 @@ footer h6::after {
 }
 
 .social .fa {
-    color: pink;
+    color: #fff;
     font-size: 22px;
     padding: 10px 15px;
     background: #234fc9;
@@ -257,6 +258,85 @@ footer ul li a {
     text-decoration: none;
     color: #000;
 }
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    .main h1 {
+        font-size: 50px;
+    }
+    
+    h5 {
+        margin-left: 30px;
+    }
+    
+    .btn_style {
+        font-size: 14px;
+        padding: 10px 20px;
+    }
+
+    .services h1 {
+        font-size: 35px;
+    }
+
+    .services .card-body {
+        padding: 30px 10px;
+    }
+
+    .top_services {
+        height: auto; /* Adjust for mobile */
+        padding: 20px 0;
+    }
+
+    .top_services img {
+        margin-left: 2rem;
+        width: 100%; /* Responsive image */
+    }
+
+    footer {
+        padding: 2rem 0;
+    }
+
+    footer h6::after {
+        width: 25%;
+    }
+}
+
+@media (max-width: 480px) {
+    .main h1 {
+        font-size: 35px;
+    }
+
+    h5 {
+        margin-left: 15px;
+    }
+
+    .btn_style {
+        font-size: 12px;
+        padding: 8px 15px;
+    }
+
+    .services h1 {
+        font-size: 30px;
+    }
+
+    .services .card-body {
+        padding: 20px 10px;
+    }
+
+    .top_services h1 {
+        font-size: 40px;
+    }
+
+    footer p, a {
+        font-size: 10px;
+    }
+
+    .btn-footer {
+        font-size: 11px;
+        padding: 5px 20px;
+    }
+}
+
 
 /* a:hover {
     text-decoration: none;
