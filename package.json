@@ -51,5 +51,8 @@
     "sass": "^1.41.1",
     "typed.js": "^2.0.12",
     "vegas": "^2.5.4"
+  },
+  "dependencies": {
+    "lighthouse": "^12.1.0"
   }
 }
